@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"HyperPar"},{"p":"<Unnamed>","l":"HyperPar_Tests"}];updateSearchResults();
